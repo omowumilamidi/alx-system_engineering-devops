@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 export PATH=$PATH:/action
+=======
+#!/bin/bash
+export PATH=$PATH:/action
+>>>>>>> 5cd7763ef49469ee59e6ede3d2b8342a0f28d830

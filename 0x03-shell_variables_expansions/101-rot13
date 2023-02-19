@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 tr 'echo {a..z} | tr -d ' " ' 'echo {n..z} $echo
+=======
+#!/bin/bash
+tr 'echo {a..z} | tr -d " " 'echo {n..z} $(echo {a..m} | tr -d ' | 
+>>>>>>> 5cd7763ef49469ee59e6ede3d2b8342a0f28d830
